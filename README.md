@@ -84,6 +84,7 @@ Example:
 ![union intersection](https://github.com/vinamaulina/Python-Guide-1/assets/114405502/91780baf-f221-4593-8644-675bc4fc3687)
 
 ### Dictionary
+
 Dictionaries are used to store key-value pairs, allowing you to associate values with specific keys.
 
 ![dictionary](https://github.com/vinamaulina/Python-Guide-1/assets/114405502/b3be8879-0e3b-4955-bbde-6a18c264d8d4)
