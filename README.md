@@ -2,29 +2,34 @@
 ## Data Type In Python
 In Python, there are several built-in data types that you can use to store and manipulate different kinds of data. Here are some of the most commonly used data types in Python:
 1.	String(str)
+
 Strings are used to represent text in Python. They are enclosed in either single (' ') or double (" ") quotes.
 
 ![string](https://github.com/vinamaulina/Python-Guide-1/assets/114405502/74b0fdcd-5fe1-43b9-b641-c2024fbe6beb)
 
 2.	Integer(int)
+
 Integers are used to represent whole numbers without decimal points.
 
 ![integer](https://github.com/vinamaulina/Python-Guide-1/assets/114405502/4e661920-205b-49f0-b199-073003e770c4)
 
 
 3.	Float(float)
+
 Floats are used to represent real numbers with decimal points.
 
 ![float](https://github.com/vinamaulina/Python-Guide-1/assets/114405502/644372ac-5399-465d-aaa0-daa9b4641e11)
 
 
 4.	Boolean(bool)
+
 Booleans represent one of two values: True or False. They are often used in conditional statements and to control program flow.
 
 ![boolean](https://github.com/vinamaulina/Python-Guide-1/assets/114405502/19a8ad51-2a04-4d30-9fb8-168ff0bcd023)
 
 
 5.	Complex(complex)
+
 Complex numbers are used to represent numbers in the form of a + bj, where a and b are real numbers, and j represents the square root of -1.
 
 ![complex](https://github.com/vinamaulina/Python-Guide-1/assets/114405502/42021b94-e31d-42ed-97ab-ce0f6409fa21)
